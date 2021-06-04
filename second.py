@@ -8,6 +8,7 @@
 
 
 def second_python():
+    print(222)
     print("第二个代码")
 
 second_python()
