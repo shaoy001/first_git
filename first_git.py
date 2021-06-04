@@ -8,9 +8,9 @@
 
 
 def first_python():
-    print("张攀的修改6")
-    print("哈哈哈")
-    print("修改为冲突")
-    print("另外这是其它的冲突加一个冲突")
+    print("1")
+    print("2")
+    print("3")
+    print("4")
 
 first_python()
