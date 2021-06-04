@@ -9,5 +9,6 @@
 
 def first_python():
     print(111)
+    print("哈哈哈")
 
 first_python()
