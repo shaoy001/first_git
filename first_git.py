@@ -10,6 +10,6 @@
 def first_python():
     print(111)
     print("哈哈哈")
-    print("nnnn")
+    print("修改为错误的分支")
 
 first_python()
