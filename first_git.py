@@ -8,7 +8,7 @@
 
 
 def first_python():
-    print(333)
+    print("张攀的修改")
     print("哈哈哈")
     print("修改为冲突")
 
