@@ -8,9 +8,9 @@
 
 
 def first_python():
-    print("1")
-    print("2")
-    print("3")
-    print("4")
+    print("18")
+    print("28")
+    print("38")
+    print("48")
 
 first_python()
