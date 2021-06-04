@@ -12,5 +12,4 @@ def first_python():
     print("24")
     print("34")
     print("44")
-
 first_python()
