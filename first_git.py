@@ -8,7 +8,7 @@
 
 
 def first_python():
-    print("李兆勇的修改2")
+    print("李兆勇的修改1")
     print("哈哈哈")
     print("修改为冲突")
 
