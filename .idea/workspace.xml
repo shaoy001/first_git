@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b50c3dff-c607-49b3-a0ad-8cafd27496fa" name="Default" comment="8" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1.0" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tTnUHM15r6fuHztW0ffGakjHB7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git_test2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Python.first_git">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="git_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\git_test\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="git_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="first_git" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_git.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.first_git" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.first_git" />
+        <item itemvalue="Python.first_git" />
+        <item itemvalue="Python.first_git" />
+        <item itemvalue="Python.first_git" />
+        <item itemvalue="Python.first_git" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b50c3dff-c607-49b3-a0ad-8cafd27496fa" name="Default" comment="" />
+      <created>1622714578568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622714578568</updated>
+      <workItem from="1622801969337" duration="172000" />
+      <workItem from="1622802153132" duration="332000" />
+      <workItem from="1622802689629" duration="283000" />
+    </task>
+    <task id="LOCAL-00001" summary="都一个文件">
+      <created>1622716541329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622716541329</updated>
+    </task>
+    <task id="LOCAL-00002" summary="增加一行输出">
+      <created>1622771555754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622771555754</updated>
+    </task>
+    <task id="LOCAL-00003" summary="又增加一行输出">
+      <created>1622772411478</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622772411478</updated>
+    </task>
+    <task id="LOCAL-00004" summary="又增加一行输出">
+      <created>1622772749968</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622772749968</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改为错误的分支">
+      <created>1622772814160</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622772814160</updated>
+    </task>
+    <task id="LOCAL-00006" summary="垃圾文件">
+      <created>1622773000204</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622773000204</updated>
+    </task>
+    <task id="LOCAL-00007" summary="merge代码">
+      <created>1622773988804</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622773988804</updated>
+    </task>
+    <task id="LOCAL-00008" summary="新增python文件">
+      <created>1622774159000</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622774159000</updated>
+    </task>
+    <task id="LOCAL-00009" summary="测试冲突">
+      <created>1622774305485</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622774305485</updated>
+    </task>
+    <task id="LOCAL-00010" summary="测试冲突1">
+      <created>1622774349246</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622774349246</updated>
+    </task>
+    <task id="LOCAL-00011" summary="456&#10;&#10;# Conflicts:&#10;#&#9;first_git.py&#10;#&#9;second.py">
+      <created>1622783565175</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622783565175</updated>
+    </task>
+    <task id="LOCAL-00012" summary="张攀的修改">
+      <created>1622784103359</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1622784103359</updated>
+    </task>
+    <task id="LOCAL-00013" summary="张攀的二次修改">
+      <created>1622784366177</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1622784366177</updated>
+    </task>
+    <task id="LOCAL-00014" summary="张攀的三次修改">
+      <created>1622784764547</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1622784764547</updated>
+    </task>
+    <task id="LOCAL-00015" summary="张攀的死次修改">
+      <created>1622785015173</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1622785015173</updated>
+    </task>
+    <task id="LOCAL-00016" summary="张攀的无次修改">
+      <created>1622785283554</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1622785283554</updated>
+    </task>
+    <task id="LOCAL-00017" summary="李兆勇的6次修改">
+      <created>1622785657874</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1622785657874</updated>
+    </task>
+    <task id="LOCAL-00018" summary="5678">
+      <created>1622786240002</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1622786240002</updated>
+    </task>
+    <task id="LOCAL-00019" summary="8改为9">
+      <created>1622786846606</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1622786846606</updated>
+    </task>
+    <task id="LOCAL-00020" summary="8改为9">
+      <created>1622786863000</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1622786863000</updated>
+    </task>
+    <task id="LOCAL-00021" summary="8改为9">
+      <created>1622787007808</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1622787007808</updated>
+    </task>
+    <task id="LOCAL-00022" summary="1234">
+      <created>1622788208206</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1622788208206</updated>
+    </task>
+    <task id="LOCAL-00023" summary="18">
+      <created>1622788471216</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1622788471216</updated>
+    </task>
+    <task id="LOCAL-00024" summary="8888">
+      <created>1622788650491</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1622788650491</updated>
+    </task>
+    <task id="LOCAL-00025" summary="6666">
+      <created>1622789920982</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1622789920982</updated>
+    </task>
+    <task id="LOCAL-00026" summary="5555">
+      <created>1622790267076</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1622790267076</updated>
+    </task>
+    <task id="LOCAL-00027" summary="5555">
+      <created>1622790324043</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1622790324043</updated>
+    </task>
+    <task id="LOCAL-00028" summary="4">
+      <created>1622791852237</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1622791852237</updated>
+    </task>
+    <task id="LOCAL-00029" summary="7">
+      <created>1622798585433</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1622798585433</updated>
+    </task>
+    <task id="LOCAL-00030" summary="8">
+      <created>1622800635536</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1622800635536</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加一行输出" />
+    <MESSAGE value="又增加一行输出" />
+    <MESSAGE value="修改为错误的分支" />
+    <MESSAGE value="垃圾文件" />
+    <MESSAGE value="merge代码" />
+    <MESSAGE value="新增python文件" />
+    <MESSAGE value="测试冲突" />
+    <MESSAGE value="测试冲突1" />
+    <MESSAGE value="456&#10;&#10;# Conflicts:&#10;#&#9;first_git.py&#10;#&#9;second.py" />
+    <MESSAGE value="张攀的修改" />
+    <MESSAGE value="张攀的二次修改" />
+    <MESSAGE value="张攀的三次修改" />
+    <MESSAGE value="张攀的死次修改" />
+    <MESSAGE value="张攀的无次修改" />
+    <MESSAGE value="李兆勇的6次修改" />
+    <MESSAGE value="5678" />
+    <MESSAGE value="8改为9" />
+    <MESSAGE value="1234" />
+    <MESSAGE value="18" />
+    <MESSAGE value="8888" />
+    <MESSAGE value="6666" />
+    <MESSAGE value="5555" />
+    <MESSAGE value="4" />
+    <MESSAGE value="7" />
+    <MESSAGE value="8" />
+    <option name="LAST_COMMIT_MESSAGE" value="8" />
+  </component>
+</project>
